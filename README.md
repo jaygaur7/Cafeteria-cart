@@ -1,8 +1,5 @@
 # Cafeteria-cart
-JAVASCRIPT
-CSS
-BOOTSTRAP
-A responsive cafeteria website using Html5 CSS&Bootstrap. 
-Add item to cart using javascript.
-Responsive website.
-google map Api's.
+#jQuery: a shopping cart 
+#javascript - Add item to cart
+#Google map Api's.
+A responsive cafeteria website using Html5 CSS&Bootstrap.
